@@ -90,6 +90,7 @@
     <None Include="Not openable.feature" />
     <None Include="Openable after including .feature.cs as generated file.feature" />
     <None Include="Openable after including .feature.cs.feature" />
+    <None Include="specflow1.json" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
